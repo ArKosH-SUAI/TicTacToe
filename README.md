@@ -22,7 +22,7 @@ If a player who chose to connect to an existing game connects to a player who is
 
 The player who created the game will play for X, and the player who connected will play for O.
 
-The first move for H. The player will need to enter the coordinates where he wants to put his piece. And so, in turn, the players will fill the playing field.
+The first move for X. The player will need to enter the coordinates where he wants to put his piece. And so, in turn, the players will fill the playing field.
 
 The game ends if one of the players draws a line of 5 identical figures or the entire field is filled.
 After the end of the game, players will be moved to the main menu
