@@ -1,0 +1,4 @@
+tictactoe\client\Client.class
+tictactoe\game\TicTacToeView.class
+tictactoe\ClientMain.class
+tictactoe\game\TicTacToeModel.class
